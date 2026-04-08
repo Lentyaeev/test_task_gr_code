@@ -1,0 +1,113 @@
+[
+  {
+    "id": "tx_0001",
+    "type": "Credit",
+    "amount": 84.23,
+    "name": "Target",
+    "description": "Household essentials",
+    "date": "2026-04-01T09:18:00.000Z",
+    "pending": true,
+    "authorizedUser": "Aisha"
+  },
+  {
+    "id": "tx_0002",
+    "type": "Credit",
+    "amount": 16.5,
+    "name": "Blue Bottle",
+    "description": "Coffee & pastry",
+    "date": "2026-03-31T16:05:00.000Z",
+    "pending": false
+  },
+  {
+    "id": "tx_0003",
+    "type": "Credit",
+    "amount": 219.99,
+    "name": "IKEA",
+    "description": "Bookshelf, pickup",
+    "date": "2026-03-30T12:42:00.000Z",
+    "pending": false,
+    "authorizedUser": "Chris"
+  },
+  {
+    "id": "tx_0004",
+    "type": "Payment",
+    "amount": 300,
+    "name": "Card Top-up",
+    "description": "Bank transfer",
+    "date": "2026-03-29T10:10:00.000Z",
+    "pending": false
+  },
+  {
+    "id": "tx_0005",
+    "type": "Credit",
+    "amount": 58.71,
+    "name": "Lyft",
+    "description": "Ride home",
+    "date": "2026-03-28T22:33:00.000Z",
+    "pending": false
+  },
+  {
+    "id": "tx_0006",
+    "type": "Credit",
+    "amount": 12.99,
+    "name": "Spotify",
+    "description": "Monthly subscription",
+    "date": "2026-03-27T08:00:00.000Z",
+    "pending": false
+  },
+  {
+    "id": "tx_0007",
+    "type": "Credit",
+    "amount": 41.2,
+    "name": "Whole Foods",
+    "description": "Groceries",
+    "date": "2026-03-26T18:21:00.000Z",
+    "pending": false
+  },
+  {
+    "id": "tx_0008",
+    "type": "Credit",
+    "amount": 9.85,
+    "name": "MTA",
+    "description": "Transit fare",
+    "date": "2026-03-25T14:09:00.000Z",
+    "pending": false
+  },
+  {
+    "id": "tx_0009",
+    "type": "Payment",
+    "amount": 120,
+    "name": "Card Top-up",
+    "description": "Instant reload",
+    "date": "2026-03-23T19:47:00.000Z",
+    "pending": false
+  },
+  {
+    "id": "tx_0010",
+    "type": "Credit",
+    "amount": 33.46,
+    "name": "Chipotle",
+    "description": "Dinner",
+    "date": "2026-03-15T01:12:00.000Z",
+    "pending": false
+  },
+  {
+    "id": "tx_0011",
+    "type": "Credit",
+    "amount": 149.0,
+    "name": "Amazon",
+    "description": "Order #112-044",
+    "date": "2026-02-22T15:06:00.000Z",
+    "pending": false
+  },
+  {
+    "id": "tx_0012",
+    "type": "Credit",
+    "amount": 28.0,
+    "name": "Local Pharmacy",
+    "description": "Prescription pickup",
+    "date": "2025-12-12T17:55:00.000Z",
+    "pending": false
+  }
+]
+
